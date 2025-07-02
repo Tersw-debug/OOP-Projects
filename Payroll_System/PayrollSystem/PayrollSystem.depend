@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1737326079 source:c:\users\hp\documents\code_blocks\payroll_system\payrollsystem\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	"Date.h"
+	"Salaried_Employee.h"
+	"Employee.h"
+
+1737240112 c:\users\hp\documents\code_blocks\payroll_system\payrollsystem\date.h
+	<array>
+	<iostream>
+
+1737237320 c:\users\hp\documents\code_blocks\payroll_system\payrollsystem\salaried_employee.h
+	"Employee.h"
+	<string>
+
+1737326139 c:\users\hp\documents\code_blocks\payroll_system\payrollsystem\employee.h
+	"Date.h"
+	<string>
+

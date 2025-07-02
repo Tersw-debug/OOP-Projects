@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1737582814 source:c:\users\hp\documents\code_blocks\accounting\main.cpp
+	<iostream>
+	<stdexcept>
+	"Baseheader.h"
+	"header1.h"
+	<vector>
+
+1737583557 c:\users\hp\documents\code_blocks\accounting\baseheader.h
+
+1737583538 c:\users\hp\documents\code_blocks\accounting\header1.h
+	"Baseheader.h"
+

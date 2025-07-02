@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734791863 source:c:\users\hp\documents\code_blocks\assignments_c++\main.cpp
+	<iostream>
+	<stdexcept>
+	"header1.h"
+	"header2.h"
+
+1734791824 c:\users\hp\documents\code_blocks\assignments_c++\header1.h
+	"header2.h"
+
+1734789077 c:\users\hp\documents\code_blocks\assignments_c++\header2.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734114373 source:c:\users\hp\documents\code_blocks\assignments\main.c
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
